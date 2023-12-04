@@ -1,0 +1,68 @@
+Choroby wewnętrzne
+-------------------
+1 poziom - angina
+a) silny ból gardła
+b) gorączka powyżej 38°C
+c) zaczerwieniona błona śluzowa gardła
+d) biały nalot na podniebieniu
+e) malinowy język
+
+2 poziom - ospa wietrzna
+a) gorączka
+b) zmęczenie
+c) brak apetytu
+d) wysypka
+e) ból głowy
+
+3 poziom - zapalenie opon mózgowych
+a) sztywność karku
+b) ból i zawroty głowy
+c) zaburzenia świadomości
+d) porażenie mięśni
+e) gorączka
+
+Kardiologia
+-------------------
+1 poziom - zawał serca
+a) nasilający się ból w klatce piersiowej
+b) duszność
+c) bladość skóry
+d) atak paniki
+e) zimne poty
+
+2 poziom - arytmia serca
+a) nieregularne bicie serca
+b) utraty przytomności
+c) zawroty głowy
+d) bóle wieńcowe
+e) duszności
+
+3 poziom - zatorowość płucna
+a) plucie krwią
+b) suchy kaszel
+c) ból w klatce piersiowej
+d) duszność
+e) nieregularny puls
+
+Neurologia
+-------------------
+1 poziom - choroba Alzheimera 
+a) zaburzenia pamięci
+b) ogólna apatia
+c) problemy z chodzeniem
+d) zaburzenia orientacji czasoprzestrzennej
+e) problemy z rozpoznawaniem bliskich
+
+2 poziom - choroba Parkisnona
+a) drżenie
+b) mimowolne ruchy
+c) przygarbienie ciała
+d) osłabienie mięśni
+e) chwiejny chód
+
+3 poziom - udar mózgu
+a) nagły i silny ból głowy
+b) niezrozumiała mowa
+c) asymetria twarzy
+d) utrata władzy w kończynach
+e) zaburzenia widzenia
